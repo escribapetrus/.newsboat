@@ -1,0 +1,29 @@
+# --- World News & Politics ---
+https://operamundi.uol.com.br/feed "~Opera Mundi" "news"
+https://feeds.bbci.co.uk/news/world/rss.xml "~BBC World" "news"
+https://www.aljazeera.com/xml/rss/all.xml "~Al Jazeera" "news"
+https://rss.nytimes.com/services/xml/rss/nyt/World.xml "~NY Times World" "news"
+https://www.theguardian.com/world/rss "~The Guardian World" "news"
+https://feeds.reuters.com/reuters/worldNews "~Reuters World" "news"
+https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml "~Libération" "news"
+https://www.economist.com/international/rss.xml "~The Economist" "news"
+
+# --- Tech & Programming ---
+https://fireborn.mataroa.blog/rss/ "~Fireborn" "tech"
+https://elixir-lang.org/atom.xml "~Elixir Lang" "tech"
+https://www.erlang.org/blog.xml "~Erlang" "tech"
+https://news.ycombinator.com/rss "~Hacker News" "tech"
+https://lobste.rs/rss "~Lobsters" "tech"
+https://lwn.net/headlines/rss "~LWN.net" "tech"
+https://blog.golang.org/feed.atom "~Go Blog" "tech"
+https://without.boats/index.xml "~without.boats (Rust)" "tech"
+https://drewdevault.com/blog/index.xml "~Drew DeVault" "tech"
+https://rachelbythebay.com/w/atom.xml "~Rachel by the Bay" "tech"
+https://simonwillison.net/atom/everything/ "~Simon Willison" "tech"
+https://newsletter.pragmaticengineer.com/feed "~Pragmatic Engineer" "tech"
+
+# --- Scifi ---
+https://www.beneath-ceaseless-skies.com/issues/feed/ "~Beneath Ceaseless Skies" "scifi"
+
+# --- Arts & Culture ---
+https://esprit.presse.fr/rss/news.xml "~Revue Esprit" "arts"
