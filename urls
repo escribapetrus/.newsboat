@@ -1,29 +1,50 @@
 # --- World News & Politics ---
 https://operamundi.uol.com.br/feed "~Opera Mundi" "news"
-https://feeds.bbci.co.uk/news/world/rss.xml "~BBC World" "news"
+https://piaui.folha.uol.com.br/feed/ "~Piauí" "news"
+https://www.intercept.com.br/feed/ "~Intercept Brasil" "news"
+https://www.theintercept.com/rss "~Intercept" "news"
+https://www.economist.com/international/rss.xml "~The Economist" "news"
+https://www.theguardian.com/world/rss "~The Guardian World" "news"
+https://www.newstatesman.com/feed "~The New Statesman" "news"
 https://www.aljazeera.com/xml/rss/all.xml "~Al Jazeera" "news"
 https://rss.nytimes.com/services/xml/rss/nyt/World.xml "~NY Times World" "news"
-https://www.theguardian.com/world/rss "~The Guardian World" "news"
-https://feeds.reuters.com/reuters/worldNews "~Reuters World" "news"
+https://www.humanite.fr/feed "~L'Humanité" "news"
 https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml "~Libération" "news"
-https://www.economist.com/international/rss.xml "~The Economist" "news"
+https://www.monde-diplomatique.fr/rss "~Le Monde Diplomatique" "news"
+https://diplomatique.org.br/feed/ "Le Monde Diplomatique Brasil" "news"
+https://feeds.bbci.co.uk/news/world/rss.xml "~BBC World" "news"
+# --- Arts & Culture ---
+https://newleftreview.org/feed "~New Left Review" "arts"
+https://esprit.presse.fr/rss/news.xml "~Revue Esprit" "arts"
+https://cci-cebrap.org.br/rss "~Cebrap" "arts"
+https://inequalitylab.world/en/rss "~World Inequality Lab" "arts"
+https://www.historicalmaterialism.org/rss "~Historical Materialism" "arts"
 
-# --- Tech & Programming ---
+# --- Tech ---
+https://stallman.org/rss/rss.xml "~Richard Stallman" "tech"
 https://fireborn.mataroa.blog/rss/ "~Fireborn" "tech"
-https://elixir-lang.org/atom.xml "~Elixir Lang" "tech"
-https://www.erlang.org/blog.xml "~Erlang" "tech"
+https://ploum.net/atom_fr.xml "~ploum" "tech"
+https://ashwinram.org/feed "~ashwinram" "tech"
+https://blog.tty8.org/feeds/all.rss "~Alexander Batischev" "tech"
+https://gizmodo.com/feed "~Gizmodo" "tech"
 https://news.ycombinator.com/rss "~Hacker News" "tech"
 https://lobste.rs/rss "~Lobsters" "tech"
 https://lwn.net/headlines/rss "~LWN.net" "tech"
-https://blog.golang.org/feed.atom "~Go Blog" "tech"
 https://without.boats/index.xml "~without.boats (Rust)" "tech"
 https://drewdevault.com/blog/index.xml "~Drew DeVault" "tech"
 https://rachelbythebay.com/w/atom.xml "~Rachel by the Bay" "tech"
 https://simonwillison.net/atom/everything/ "~Simon Willison" "tech"
 https://newsletter.pragmaticengineer.com/feed "~Pragmatic Engineer" "tech"
+https://telnyx.com/rss.xml "~Telnyx" "tech"
+
+# --- Programming Languages --- 
+https://elixir-lang.org/atom.xml "~Elixir Lang" "programming languages"
+https://www.erlang.org/blog.xml "~Erlang" "programming languages"
+https://blog.golang.org/feed.atom "~Go Blog" "programming languages"
 
 # --- Scifi ---
 https://www.beneath-ceaseless-skies.com/issues/feed/ "~Beneath Ceaseless Skies" "scifi"
+https://strangehorizons.com/wordpress/feed/ "~Strange Horizons" "scifi"
 
-# --- Arts & Culture ---
-https://esprit.presse.fr/rss/news.xml "~Revue Esprit" "arts"
+# --- Business ---
+http://feeds.harvardbusiness.org/harvardbusiness/ "~Harvard Business Review" "business"
