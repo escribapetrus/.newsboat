@@ -13,8 +13,11 @@ https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml "~Libératio
 https://www.monde-diplomatique.fr/rss "~Le Monde Diplomatique" "news"
 https://diplomatique.org.br/feed/ "Le Monde Diplomatique Brasil" "news"
 https://feeds.bbci.co.uk/news/world/rss.xml "~BBC World" "news"
+https://www.foreignaffairs.com/rss.xml "~Foreign affairs" "news"
+
 # --- Arts & Culture ---
 https://newleftreview.org/feed "~New Left Review" "arts"
+https://newleftreview.org/sidecar/feed "~Sidecar: New Left Review Blog" "arts"
 https://esprit.presse.fr/rss/news.xml "~Revue Esprit" "arts"
 https://cci-cebrap.org.br/rss "~Cebrap" "arts"
 https://inequalitylab.world/en/rss "~World Inequality Lab" "arts"
